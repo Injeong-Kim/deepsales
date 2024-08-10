@@ -9,9 +9,10 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-003B57?style=flat-square&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ORACLE-E72929?style=flat-square&logo=ORACLE&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jupyter-EB5B00?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+<br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
-<br/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 &nbsp; 
@@ -19,7 +20,7 @@
 &nbsp; 
 
 #### <h2 align="center">🌼About ME🌼</h2>
-<h4 align="center"><a href="https://www.instagram.com/in._.jungee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a></h4>
+<h4 align="center"><a href="https://gentle-tuba-e1f.notion.site/Injeong-Kim-ad128e49ffa441eeac96bf7202bb1c59?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a></h4>
 &nbsp; 
 &nbsp;
 &nbsp;  
